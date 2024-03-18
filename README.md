@@ -2,13 +2,16 @@
 
 🎨 I love to create engaging and user-friendly interfaces, I thrive on bringing designs to life with clean and efficient code.
 
+🦾 My programming journey started with Haiku Academys full stack web developer bootcamp; since graduating I've created a series of personal projects aswell as contributing to larger 
+group projects for start-ups and NGO's.
+
 💻 With 2 years of experience in web development, I've worked on a variety of projects, from single-page applications to ore complex full satck applications.
 
 🔧 Whether it's optimizing performance, enhancing accessibility, or implementing cutting-edge features, I love diving into challenges and finding innovative solutions.
 
 🌟 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out for collaborations or discussions.
 
-📫 You can contact me via [LinkedIn](https://www.linkedin.com/in/jacob-bidmead-27810b253/). Looking forward to connecting with fellow developers and creators!
+📫 You can contact me via [LinkedIn](https://www.linkedin.com/in/jacob-bidmead-27810b253/), looking forward to connecting with fellow developers and creators!
 
 Happy coding! 😊
 
