@@ -2,10 +2,11 @@
 
 🎨 I love to create engaging and user-friendly interfaces, I thrive on bringing designs to life with clean and efficient code.
 
-🦾 My programming journey started with Haiku Academys full stack web developer bootcamp; since graduating I've created a series of personal projects aswell as contributing to larger 
-group projects for start-ups and NGO's.
+🦾 My programming journey started with Haiku Academys Full Stack Web Development Bootcamp, which i graduated in October 2022. 
 
-💻 With 2 years of experience in web development, I've worked on a variety of projects, from single-page applications to ore complex full satck applications.
+💻  I've worked on a variety of personal projects, from single-page applications to more complex full stack apps. You can view my work on [my website](https://jacobbidmead.com/).
+
+🥷🏻 I have experience contributing to larger group projects, from working with start-ups building Saas MVP products to imporving accessability for an NGO's website.
 
 🔧 Whether it's optimizing performance, enhancing accessibility, or implementing cutting-edge features, I love diving into challenges and finding innovative solutions.
 
