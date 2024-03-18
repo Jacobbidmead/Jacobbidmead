@@ -2,7 +2,7 @@
 
 🎨 I love to create engaging and user-friendly interfaces, I thrive on bringing designs to life with clean and efficient code.
 
-🦾 My programming journey started with Haiku Academys Full Stack Web Development Bootcamp, which i graduated in October 2022. 
+🦾 My programming journey started with Haiku Academys Full Stack Web Development Bootcamp, which I graduated in October 2022. 
 
 💻  I've worked on a variety of personal projects, from single-page applications to more complex full stack apps. You can view my work on [my website](https://jacobbidmead.com/).
 
