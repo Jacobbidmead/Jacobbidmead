@@ -6,7 +6,7 @@
 
 💻  I've worked on a variety of personal projects, from single-page applications to more complex full stack apps. You can view my work on [my website](https://jacobbidmead.com/).
 
-🥷🏻 I have experience contributing to larger group projects, from working with start-ups building Saas MVP products to imporving accessability for an NGO's website.
+🥷🏻 I have experience contributing to larger group projects, from working with start-ups building Saas MVP products to improving accessability for an NGO's website.
 
 🔧 Whether it's optimizing performance, enhancing accessibility, or implementing cutting-edge features, I love diving into challenges and finding innovative solutions.
 
