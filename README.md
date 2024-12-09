@@ -4,4 +4,4 @@ I build modern frontend applications with TypeScript & Next.js, utilising react 
 
 You can view my work @ (https://jacobbidmead.com/).
 
-Contact via [LinkedIn](https://www.linkedin.com/in/jacob-bidmead-27810b253/)✌🏻
+Contact via [LinkedIn](https://www.linkedin.com/in/jacob-bidmead-27810b253/) ✌🏻
