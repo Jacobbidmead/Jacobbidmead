@@ -1,6 +1,6 @@
-I'm Jacob, a passionate & creative frontend developer with close to three years programming experience. 
+I'm Jacob, a passionate & creative frontend developer with three years programming experience. 
 
-I build modern frontend applications with TypeScript & Next.js, utilising react best practices such as server side rendering, cient side state managment & headless CMS content managment.
+I build modern frontend applications with TypeScript & Next.js.
 
 You can view my work [here](https://jacobbidmead.com/).
 
